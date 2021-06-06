@@ -1,3 +1,2 @@
-spring.profiles.active=native
 limit-service.minimum=4
 limit-service.maximum=890
